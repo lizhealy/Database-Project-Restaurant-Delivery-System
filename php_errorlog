@@ -1,0 +1,164 @@
+[10-Apr-2017 16:44:03 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/lizh1851/public_html/final-project/restaurant.php:179
+Stack trace:
+#0 {main}
+  thrown in /home/lizh1851/public_html/final-project/restaurant.php on line 179
+[10-Apr-2017 16:46:22 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/lizh1851/public_html/final-project/restaurant.php:179
+Stack trace:
+#0 {main}
+  thrown in /home/lizh1851/public_html/final-project/restaurant.php on line 179
+[10-Apr-2017 16:46:26 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/lizh1851/public_html/final-project/addmenu.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/lizh1851/public_html/final-project/addmenu.php on line 11
+[10-Apr-2017 17:36:54 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home/lizh1851/public_html/final-project/login.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/lizh1851/public_html/final-project/login.php on line 23
+[10-Apr-2017 17:50:15 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home/lizh1851/public_html/final-project/login.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/lizh1851/public_html/final-project/login.php on line 23
+[10-Apr-2017 18:09:21 CST6CDT] PHP Parse error:  syntax error, unexpected 'If' (T_IF) in /home/lizh1851/public_html/final-project/register.php on line 6
+[10-Apr-2017 18:10:22 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/lizh1851/public_html/final-project/register.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/lizh1851/public_html/final-project/register.php on line 15
+[10-Apr-2017 18:11:37 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/lizh1851/public_html/final-project/register.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/lizh1851/public_html/final-project/register.php on line 15
+[10-Apr-2017 18:12:04 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/lizh1851/public_html/final-project/register.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/lizh1851/public_html/final-project/register.php on line 15
+[10-Apr-2017 18:13:43 CST6CDT] PHP Parse error:  syntax error, unexpected 'Else' (T_ELSE) in /home/lizh1851/public_html/final-project/register.php on line 23
+[10-Apr-2017 18:22:29 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home/lizh1851/public_html/final-project/login.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/lizh1851/public_html/final-project/login.php on line 23
+[10-Apr-2017 18:27:33 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home/lizh1851/public_html/final-project/login.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/lizh1851/public_html/final-project/login.php on line 23
+[10-Apr-2017 18:35:38 CST6CDT] PHP Fatal error:  require_once(): Failed opening required 'db_connect.php' (include_path='.:/usr/local/php70/pear') in /home/lizh1851/public_html/final-project/login.php on line 19
+[10-Apr-2017 18:36:02 CST6CDT] PHP Fatal error:  require_once(): Failed opening required 'db_connect.php' (include_path='.:/usr/local/php70/pear') in /home/lizh1851/public_html/final-project/login.php on line 19
+[11-Apr-2017 20:44:01 CST6CDT] PHP Parse error:  syntax error, unexpected end of file in /home/lizh1851/public_html/final-project/login.php on line 56
+[11-Apr-2017 21:30:28 CST6CDT] PHP Parse error:  syntax error, unexpected '<' in /home/lizh1851/public_html/final-project/login.php on line 42
+[11-Apr-2017 21:30:29 CST6CDT] PHP Parse error:  syntax error, unexpected '<' in /home/lizh1851/public_html/final-project/login.php on line 42
+[11-Apr-2017 21:33:29 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/lizh1851/public_html/final-project/restaurant.php:179
+Stack trace:
+#0 {main}
+  thrown in /home/lizh1851/public_html/final-project/restaurant.php on line 179
+[11-Apr-2017 21:53:04 CST6CDT] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/lizh1851/public_html/final-project/login.php on line 12
+[11-Apr-2017 23:01:35 CST6CDT] PHP Parse error:  syntax error, unexpected '<' in /home/lizh1851/public_html/final-project/admin_food_menus.php on line 49
+[11-Apr-2017 23:02:05 CST6CDT] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/lizh1851/public_html/final-project/admin_food_menus.php on line 49
+[11-Apr-2017 23:08:29 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/lizh1851/public_html/final-project/admin_food_menus.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/lizh1851/public_html/final-project/admin_food_menus.php on line 50
+[11-Apr-2017 23:08:55 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/lizh1851/public_html/final-project/admin_food_menus.php:51
+Stack trace:
+#0 {main}
+  thrown in /home/lizh1851/public_html/final-project/admin_food_menus.php on line 51
+[11-Apr-2017 23:09:00 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/lizh1851/public_html/final-project/admin_food_menus.php:51
+Stack trace:
+#0 {main}
+  thrown in /home/lizh1851/public_html/final-project/admin_food_menus.php on line 51
+[11-Apr-2017 23:14:33 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_select_db() in /home/lizh1851/public_html/final-project/admin_food_menus.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/lizh1851/public_html/final-project/admin_food_menus.php on line 53
+[11-Apr-2017 23:14:55 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/lizh1851/public_html/final-project/admin_food_menus.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/lizh1851/public_html/final-project/admin_food_menus.php on line 54
+[11-Apr-2017 23:16:28 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home/lizh1851/public_html/final-project/admin_food_menus.php:57
+Stack trace:
+#0 {main}
+  thrown in /home/lizh1851/public_html/final-project/admin_food_menus.php on line 57
+[11-Apr-2017 23:25:40 CST6CDT] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/lizh1851/public_html/final-project/admin_food_menus.php on line 69
+[11-Apr-2017 23:28:11 CST6CDT] PHP Parse error:  syntax error, unexpected 'width' (T_STRING), expecting ',' or ';' in /home/lizh1851/public_html/final-project/admin_food_menus.php on line 58
+[11-Apr-2017 23:29:02 CST6CDT] PHP Parse error:  syntax error, unexpected 't1' (T_STRING), expecting ',' or ';' in /home/lizh1851/public_html/final-project/admin_food_menus.php on line 58
+[14-Apr-2017 12:08:55 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/lizh1851/public_html/final-project/admin_food_menus.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/lizh1851/public_html/final-project/admin_food_menus.php on line 25
+[14-Apr-2017 12:09:45 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/lizh1851/public_html/final-project/admin_food_menus.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/lizh1851/public_html/final-project/admin_food_menus.php on line 35
+[14-Apr-2017 12:13:16 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/lizh1851/public_html/final-project/admin_food_menus.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/lizh1851/public_html/final-project/admin_food_menus.php on line 35
+[14-Apr-2017 12:16:07 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/lizh1851/public_html/final-project/admin_food_menus.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/lizh1851/public_html/final-project/admin_food_menus.php on line 35
+[14-Apr-2017 12:16:18 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/lizh1851/public_html/final-project/admin_food_menus.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/lizh1851/public_html/final-project/admin_food_menus.php on line 35
+[14-Apr-2017 12:21:19 CST6CDT] PHP Parse error:  syntax error, unexpected '<' in /home/lizh1851/public_html/final-project/admin_food_menus.php on line 41
+[14-Apr-2017 12:26:32 CST6CDT] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/lizh1851/public_html/final-project/admin_food_menus.php on line 45
+[14-Apr-2017 12:26:34 CST6CDT] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/lizh1851/public_html/final-project/admin_food_menus.php on line 45
+[14-Apr-2017 12:26:52 CST6CDT] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/lizh1851/public_html/final-project/admin_food_menus.php on line 45
+[14-Apr-2017 12:36:50 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_num_rows() in /home/lizh1851/public_html/final-project/admin_food_menus.php:51
+Stack trace:
+#0 {main}
+  thrown in /home/lizh1851/public_html/final-project/admin_food_menus.php on line 51
+[14-Apr-2017 12:37:53 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/lizh1851/public_html/final-project/admin_food_menus.php:57
+Stack trace:
+#0 {main}
+  thrown in /home/lizh1851/public_html/final-project/admin_food_menus.php on line 57
+[14-Apr-2017 12:40:11 CST6CDT] PHP Parse error:  syntax error, unexpected 'Title' (T_STRING), expecting ',' or ';' in /home/lizh1851/public_html/final-project/admin_food_menus.php on line 60
+[14-Apr-2017 12:40:30 CST6CDT] PHP Parse error:  syntax error, unexpected 'Title' (T_STRING), expecting ',' or ';' in /home/lizh1851/public_html/final-project/admin_food_menus.php on line 60
+[14-Apr-2017 12:40:33 CST6CDT] PHP Parse error:  syntax error, unexpected 'Title' (T_STRING), expecting ',' or ';' in /home/lizh1851/public_html/final-project/admin_food_menus.php on line 60
+[14-Apr-2017 13:21:56 CST6CDT] PHP Parse error:  syntax error, unexpected '$row' (T_VARIABLE) in /home/lizh1851/public_html/final-project/admin_food_menus.php on line 56
+[14-Apr-2017 13:22:26 CST6CDT] PHP Parse error:  syntax error, unexpected end of file in /home/lizh1851/public_html/final-project/admin_food_menus.php on line 119
+[14-Apr-2017 13:24:19 CST6CDT] PHP Parse error:  syntax error, unexpected end of file in /home/lizh1851/public_html/final-project/admin_food_menus.php on line 121
+[14-Apr-2017 13:25:12 CST6CDT] PHP Parse error:  syntax error, unexpected end of file in /home/lizh1851/public_html/final-project/admin_food_menus.php on line 121
+[14-Apr-2017 13:26:03 CST6CDT] PHP Parse error:  syntax error, unexpected end of file in /home/lizh1851/public_html/final-project/admin_food_menus.php on line 121
+[14-Apr-2017 13:26:32 CST6CDT] PHP Parse error:  syntax error, unexpected end of file in /home/lizh1851/public_html/final-project/admin_food_menus.php on line 121
+[14-Apr-2017 13:26:48 CST6CDT] PHP Parse error:  syntax error, unexpected end of file in /home/lizh1851/public_html/final-project/admin_food_menus.php on line 71
+[14-Apr-2017 13:30:38 CST6CDT] PHP Parse error:  syntax error, unexpected end of file in /home/lizh1851/public_html/final-project/admin_food_menus.php on line 73
+[14-Apr-2017 13:30:49 CST6CDT] PHP Parse error:  syntax error, unexpected end of file in /home/lizh1851/public_html/final-project/admin_food_menus.php on line 72
+[14-Apr-2017 13:38:35 CST6CDT] PHP Parse error:  syntax error, unexpected end of file in /home/lizh1851/public_html/final-project/admin_food_menus.php on line 87
+[14-Apr-2017 13:40:39 CST6CDT] PHP Parse error:  syntax error, unexpected 'mysqli_query' (T_STRING), expecting ',' or ';' in /home/lizh1851/public_html/final-project/admin_food_menus.php on line 78
+[14-Apr-2017 13:41:11 CST6CDT] PHP Parse error:  syntax error, unexpected 'mysqli_query' (T_STRING), expecting ',' or ';' in /home/lizh1851/public_html/final-project/admin_food_menus.php on line 78
+[14-Apr-2017 13:43:22 CST6CDT] PHP Parse error:  syntax error, unexpected '}' in /home/lizh1851/public_html/final-project/admin_food_menus.php on line 86
+[14-Apr-2017 14:38:17 CST6CDT] PHP Parse error:  syntax error, unexpected '$id' (T_VARIABLE) in /home/lizh1851/public_html/final-project/customer_order.php on line 33
+[14-Apr-2017 14:42:00 CST6CDT] PHP Parse error:  syntax error, unexpected '$id' (T_VARIABLE) in /home/lizh1851/public_html/final-project/customer_order.php on line 33
+[14-Apr-2017 14:42:03 CST6CDT] PHP Parse error:  syntax error, unexpected '$id' (T_VARIABLE) in /home/lizh1851/public_html/final-project/customer_order.php on line 33
+[14-Apr-2017 14:43:26 CST6CDT] PHP Parse error:  syntax error, unexpected '$id' (T_VARIABLE) in /home/lizh1851/public_html/final-project/customer_order.php on line 33
+[16-Apr-2017 10:35:17 CST6CDT] PHP Parse error:  syntax error, unexpected end of file in /home/lizh1851/public_html/final-project/customer_order.php on line 185
+[16-Apr-2017 10:35:18 CST6CDT] PHP Parse error:  syntax error, unexpected end of file in /home/lizh1851/public_html/final-project/customer_order.php on line 185
+[16-Apr-2017 10:35:52 CST6CDT] PHP Parse error:  syntax error, unexpected end of file in /home/lizh1851/public_html/final-project/customer_order.php on line 181
+[16-Apr-2017 10:50:25 CST6CDT] PHP Parse error:  syntax error, unexpected end of file in /home/lizh1851/public_html/final-project/customer_order.php on line 181
+[16-Apr-2017 10:50:58 CST6CDT] PHP Parse error:  syntax error, unexpected end of file in /home/lizh1851/public_html/final-project/customer_order.php on line 181
+[16-Apr-2017 10:51:29 CST6CDT] PHP Parse error:  syntax error, unexpected end of file in /home/lizh1851/public_html/final-project/customer_order.php on line 186
+[16-Apr-2017 11:11:18 CST6CDT] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home/lizh1851/public_html/final-project/customer_order.php on line 95
+[16-Apr-2017 11:13:39 CST6CDT] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting identifier (T_STRING) in /home/lizh1851/public_html/final-project/customer_order.php on line 91
+[16-Apr-2017 11:15:14 CST6CDT] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/lizh1851/public_html/final-project/customer_order.php on line 95
+[16-Apr-2017 11:15:40 CST6CDT] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home/lizh1851/public_html/final-project/customer_order.php on line 98
+[16-Apr-2017 11:16:49 CST6CDT] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home/lizh1851/public_html/final-project/customer_order.php on line 98
+[16-Apr-2017 11:50:08 CST6CDT] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home/lizh1851/public_html/final-project/customer_cart.php on line 85
+[16-Apr-2017 12:04:18 CST6CDT] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home/lizh1851/public_html/final-project/customer_cart.php on line 82
+[16-Apr-2017 12:05:27 CST6CDT] PHP Parse error:  syntax error, unexpected '$boxesChecked' (T_VARIABLE), expecting ',' or ';' in /home/lizh1851/public_html/final-project/customer_cart.php on line 76
+[16-Apr-2017 12:14:14 CST6CDT] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/lizh1851/public_html/final-project/customer_cart.php on line 91
+[16-Apr-2017 12:16:46 CST6CDT] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home/lizh1851/public_html/final-project/customer_cart.php on line 94
+[16-Apr-2017 12:17:59 CST6CDT] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/lizh1851/public_html/final-project/customer_cart.php on line 96
+[16-Apr-2017 13:49:40 CST6CDT] PHP Parse error:  syntax error, unexpected ',', expecting ']' in /home/lizh1851/public_html/final-project/customer_cart.php on line 57
+[16-Apr-2017 13:59:41 CST6CDT] PHP Parse error:  syntax error, unexpected ',' in /home/lizh1851/public_html/final-project/customer_cart.php on line 57
+[17-Apr-2017 10:39:15 CST6CDT] PHP Parse error:  syntax error, unexpected ';', expecting ',' or ')' in /home/lizh1851/public_html/final-project/admin_drivers.php on line 51
+[17-Apr-2017 10:51:45 CST6CDT] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/lizh1851/public_html/final-project/admin_drivers.php on line 49
+[17-Apr-2017 10:52:04 CST6CDT] PHP Parse error:  syntax error, unexpected '.' in /home/lizh1851/public_html/final-project/admin_drivers.php on line 49
+[17-Apr-2017 11:14:07 CST6CDT] PHP Parse error:  syntax error, unexpected '<' in /home/lizh1851/public_html/final-project/customer_cart.php on line 103
+[17-Apr-2017 11:31:21 CST6CDT] PHP Parse error:  syntax error, unexpected '2' (T_LNUMBER), expecting ',' or ';' in /home/lizh1851/public_html/final-project/admin_orders.php on line 57
+[17-Apr-2017 11:51:58 CST6CDT] PHP Parse error:  syntax error, unexpected end of file in /home/lizh1851/public_html/final-project/admin_orders.php on line 154
+[17-Apr-2017 12:23:12 CST6CDT] PHP Parse error:  syntax error, unexpected '}' in /home/lizh1851/public_html/final-project/admin_orders.php on line 113
+[17-Apr-2017 12:25:14 CST6CDT] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/lizh1851/public_html/final-project/admin_orders.php on line 115
+[17-Apr-2017 12:49:36 CST6CDT] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home/lizh1851/public_html/final-project/admin_orders.php on line 72
+[17-Apr-2017 12:57:14 CST6CDT] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/lizh1851/public_html/final-project/admin_orders.php on line 114
+[18-Apr-2017 13:59:01 CST6CDT] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/lizh1851/public_html/final-project/admin_zones.php on line 40
+[18-Apr-2017 13:59:14 CST6CDT] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home/lizh1851/public_html/final-project/admin_zones.php on line 39
